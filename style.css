@@ -1,0 +1,155 @@
+.cabecera{
+	height: 170px;
+	width: 100%;
+	background: #2e3639;
+	display: fixed;
+}
+
+
+.btn-group{
+	margin-left: 850px !important;
+	margin-top: 15px;
+}
+
+.btn-secondary{
+	background-color: #359cd9;
+	font-size: 10px;
+	height: 25px;
+	
+
+}
+
+
+.botonesespeciales a:hover{
+	color: white !important;
+    
+
+
+}
+
+.navbar{
+	background-color: #2e3639 !important;
+	margin-top: -0.1px !important;
+	margin-left: 100px;
+	height: 90px;
+}
+
+.logo{
+	width:110px;
+	height:110px;
+
+}
+
+.nav-link{
+	color: white !important;
+	border-left: 1px solid gray;
+	font-size: 12px;
+
+}
+.mr-auto{
+	margin-top: 50px;
+	margin-left: 30px;
+}
+
+.card-img-top{
+	height: 200px;
+}
+
+.card{
+	margin-top: 20px !important;
+	border:black !important;
+	background: black;
+
+}
+
+.fotos{
+	background: #2e3639;
+}
+
+.card-text{
+	color: white;
+	font-size: 10px;
+}
+
+.card strong{
+	color: white;
+}
+
+.contacto{
+	background-color: #f0f0f0;
+	height: 250px;
+    padding: 20px;
+}
+
+.contenedor-titulo{
+	background: #f0f0f0;
+	width: 800px;
+	height: 60px;
+	margin:15px;
+	margin-left: 170px;
+	padding: 15px;
+	color: #0086d3;
+	font-family: 'DefaultRegular', Helvetica, Arial, sans-serif;
+}
+
+.contactobox{
+	color: gray;
+}
+
+
+.info span{
+	font-size: 15px;
+}
+
+.link-contacto{
+	height: 160px;
+	background: white;
+
+}
+
+.orden{
+	width: 150px !important;
+	padding: none !important;
+	margin-top: 50px;
+	margin-left: 150px;
+
+}
+
+.orden2{
+	width: 150px !important;
+	padding: none !important;
+	margin-top: 50px;
+	margin-right: 50px;
+	
+}
+
+.w-50{
+	width: 450px !important;
+	margin-top: 9px;
+	margin-right: 50px;
+	font-size: 15px;
+}
+
+.final{
+	background: #373e44;
+	height: 100px;
+}
+
+.nav{
+	margin-top: 20px;
+}
+
+.siguenos{
+	color: white;
+	font-size: 15px !important;
+}
+
+.svg{
+	margin-top: 30px;
+	margin-left: 60px;
+}
+
+.carousel-caption{
+	margin-left: 600px;
+	margin-bottom: 150px;
+}
