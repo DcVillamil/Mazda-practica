@@ -52,7 +52,7 @@
             <!-- numero 1 -->
             <div class="col">
                 <div class="card" style="width: 15rem;">
-                    <img class="card-img-top" src="carta1.1.PNG" alt="Card image cap">
+                    <img class="card-img-top" src="https://i.imgur.com/uIsk1uo.png" alt="Card image cap">
                     <div class="card-body">
                         <strong>Nueva Mazda CX-5</strong>
                         <p class="card-text">Un homenaje a la conducción.</p>
@@ -64,7 +64,7 @@
             <!-- numero 2 -->
             <div class="col">
                 <div class="card" style="width: 15rem;">
-                    <img class="card-img-top" src="carta2.1.PNG" alt="Card image cap">
+                    <img class="card-img-top" src="https://i.imgur.com/a0DF50I.png" alt="Card image cap">
                     <div class="card-body">
                         <strong>Mazda 2 Sedán</strong>
                         <p class="card-text">Cuando vas bien,el mundo va contigo.</p>
@@ -76,7 +76,7 @@
             <!-- numero 3 -->
             <div class="col">
                 <div class="card" style="width: 16rem;">
-                    <img class="card-img-top" src="carta3.1.PNG" alt="Card image cap">
+                    <img class="card-img-top" src="https://i.imgur.com/om8h1Xo.png" alt="Card image cap">
                     <div class="card-body">
                         <strong>Prevención de Fraude</strong>
                         <p class="card-text">Aviso legal para prevenir fraudes de terceros.</p>
@@ -88,7 +88,7 @@
             <!-- numero 4 -->
             <div class="col">
                 <div class="card" style="width: 17rem;">
-                    <img class="card-img-top" src="carta4.1.PNG" alt="Card image cap">
+                    <img class="card-img-top" src="https://i.imgur.com/0NTLfkX.png" alt="Card image cap">
                     <div class="card-body">
                         <strong>Campañas de Seguridad</strong>
                         <p class="card-text">Conoce si tu vehículo seencuentran en campaña.</p>
