@@ -46,6 +46,62 @@
 
 </section>
 
+<section class="fotos">
+    <div class="container">
+        <div class="row">
+            <!-- numero 1 -->
+            <div class="col">
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="carta1.1.PNG" alt="Card image cap">
+                    <div class="card-body">
+                        <strong>Nueva Mazda CX-5</strong>
+                        <p class="card-text">Un homenaje a la conducción.</p>
+                        <a href="#">Descubre más</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- numero 2 -->
+            <div class="col">
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="carta2.1.PNG" alt="Card image cap">
+                    <div class="card-body">
+                        <strong>Mazda 2 Sedán</strong>
+                        <p class="card-text">Cuando vas bien,el mundo va contigo.</p>
+                        <a href="#">Descubre más</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- numero 3 -->
+            <div class="col">
+                <div class="card" style="width: 16rem;">
+                    <img class="card-img-top" src="carta3.1.PNG" alt="Card image cap">
+                    <div class="card-body">
+                        <strong>Prevención de Fraude</strong>
+                        <p class="card-text">Aviso legal para prevenir fraudes de terceros.</p>
+                        <a href="#">Descubre más</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- numero 4 -->
+            <div class="col">
+                <div class="card" style="width: 17rem;">
+                    <img class="card-img-top" src="carta4.1.PNG" alt="Card image cap">
+                    <div class="card-body">
+                        <strong>Campañas de Seguridad</strong>
+                        <p class="card-text">Conoce si tu vehículo seencuentran en campaña.</p>
+                        <a href="#">Descubre más</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  </section>
+
+
 
 <section class="contacto">
     <div class="container">
